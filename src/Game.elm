@@ -458,6 +458,8 @@ viewWelcomeMessage =
     a non-green word or choose to stop. Tapping a black instantly loses the game.
     Try to reveal all green words before the timer counter reaches 9.
     Good luck, have fun!
+
+    Don't forget: fuck ICE, Trump and all fascist enablers ✊
     """ ]
 
 
